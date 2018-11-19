@@ -1,0 +1,10 @@
+Flask
+numpy
+Cython
+pandas
+nltk
+requests
+geopy>=1.11.0
+vaderSentiment
+scikit-learn
+flask-cors

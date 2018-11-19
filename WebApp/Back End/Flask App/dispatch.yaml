@@ -1,0 +1,10 @@
+dispatch:
+
+  - url: "kumodev2.appspot.com/AltoDashboard/"
+    service: flex-module
+
+  - url: "kumodev2.appspot.com/workflowapi/"
+    service: workflowapi
+
+  - url: "kumodev2.appspot.com/"
+    service: default
